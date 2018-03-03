@@ -4,12 +4,12 @@
 [mainpage]: https://shawnzhuang.github.io/cv/
 
 <!-- main page -->
-# 庄孝星 zhuang xiaoxing
+# 庄孝星 Zhuang Xiaoxing
 **求知 | 简单 | 不重复**
 
 **期望工作**: **图像处理 \| 深度学习 \| 算法优化 \| 算法加速**
 
-main page： https://shawnzhuang.github.io/cv/  
+main page：[https://shawnzhuang.github.io/cv/][mainpage]  
 mail: [shawn.zhuang@outlook.com][mail]  
 blog: [Comming Soon][blog]  
 
