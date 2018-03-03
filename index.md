@@ -41,7 +41,7 @@ blog: [Comming Soon][blog]
 2009.9~2013.7 厦门大学 电子与通信工程学士 
 * 理论学习：数字信号处理，数值图像处理，微积分，线性代数，数理统计 
 
-# 论文专利
+## 论文专利
 - **庄孝星**, 马崚嶒, 蔡聪波,等. 一种基于时空变换和压缩感知的磁共振螺旋采样的图像重建算法[J]. 波谱学杂志, 2016, 33(4):549-558.
 - 陈忠, **庄孝星**, 蔡聪波. 一种在强不均匀磁场下磁共振图像扭曲的矫正方法:, CN105738847A[P]. 2016.
 - Qu X, Chen Y, **Zhuang X**, et al. Spread spectrum compressed sensing MRI using chirp radio frequency pulses[C]// IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2016:689-693.
@@ -49,23 +49,23 @@ blog: [Comming Soon][blog]
 - 屈小波, 颜志煜, 陈颖, **庄孝星**et al. Compressed sensing magnetic resonance imaging method controlled by radio-frequency pulse:, CN 103033784 A[P]. 2013.
 
 
-# 自学课程
+## 自学课程
 * 程序设计实习（coursera，北京大学网络开放课程）：完成并获得电子证书
 * 机器学习 （在学）
 * 深度学习工程-吴恩达 （在学）： 已经学习深度学习的基本理论
 
 
-# 其他活动
+## 其他活动
 * 马拉松全程2次（2012,2013），完成山地越野30km1次（2012）
 * 厦门大学绿野协会干事，协会网络部部长，组织多次户外活动。（2010）  
 * 河南行之大河 绿色营活动，期间徒步300公里，开展多次宣传和支教活动。（2010）
 
-# Todo List
-## Github项目
+## Todo List
+### Github项目
 * 自动化用例代码框架
 * l1 模型最优化算法实现，基于Matlab面向对象编程
  
-## 知识共享（comming soon，博客）
+### 知识共享（comming soon，博客）
 * ECC/CRC 校验原理
 * RSA原理
 * 支撑向量机
@@ -74,7 +74,7 @@ blog: [Comming Soon][blog]
 * 非线性搜索的方法：粒子群算法，布谷鸟算法等
 * Deep learning 的若干问题
 
-## 图书悦读
+### 图书悦读
 * C++ Primier ed4 (完成)
 * TensorFlow     (在读)
 * 设计模式        (在读)
