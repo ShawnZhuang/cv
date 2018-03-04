@@ -2,6 +2,7 @@
 [mail]: mailto:shawn.zhuang@outlook.com
 [blog]: about:blank
 [mainpage]: https://shawnzhuang.github.io/cv/
+[wechat_qcode]: image/wechat.png
 
 <!-- main page -->
 # 庄孝星 Zhuang Xiaoxing
@@ -13,6 +14,7 @@ main page：[https://shawnzhuang.github.io/cv/][mainpage]
 mail: [shawn.zhuang@outlook.com][mail]  
 blog: [Comming Soon][blog]  
 
+<img src="image/wechat.png" width="128" height=128>
 
 ## 技能
 精通： Matlab + C/C++ \| CUDA 并行计算 \| 矩阵论 \| 凸优化 \| UEFI & Edk2  \|  
